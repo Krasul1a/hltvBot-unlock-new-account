@@ -10,7 +10,7 @@ Are you tired from get banned and have to redo that shi* of post 5 comments per 
 
 ## Cons:
 * If your PC is under proxy config you must type the proxy login every time (after 5 minutes)
-
+* You must run it daily xd
 
 ## Requirements:
 * Python 3

@@ -19,7 +19,7 @@ Are you tired from get banned and have to redo that shi* of post 5 comments per 
 
 
 ## How to use it?
-1. First of all you must edit line #12 with your username and line #13 with your password
+1. First of all you must edit line #18 with your username and line #19 with your password
 2. Now you must save the file with the extension .pyw
 3. double-click on the .pyw file
 4. Have Fun

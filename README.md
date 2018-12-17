@@ -1,5 +1,5 @@
 # hltvBot - unlock your new account
-Are you tired from get banned and have to redo that shi* of post 5 comments per day to unlock your account to create threads, dont worry, now it's easy: This app gonna login into your account and post "+1" in the first off topic forum thread every 5 minutes.
+Are you tired from get banned and have to redo that shi* of post 5 comments per day to unlock your account to create threads? Dont worry, now it's easy: This app gonna login into your account and post "+1" in the first off topic forum thread every 5 minutes.
 
 
 ## Pros:

@@ -1,9 +1,9 @@
-#########################################
+#################################################
 #	Created By Luiz Guilherme Fritsch	#
-#			17/12/2018					#
-#	www.github.com/luizfritsch			#
-#	fritsch.guilherm3@gmail.com 		#
-#########################################
+#			17/12/2018		#
+#	www.github.com/luizfritsch		#
+#	fritsch.guilherm3@gmail.com		#
+#################################################
 import selenium
 import time
 from selenium import webdriver
